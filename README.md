@@ -1,2 +1,3 @@
-# exercises
-# exercises. A Good Place For Java Practice
+# exercises. 
+
+A Good Place For Java Practice
